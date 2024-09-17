@@ -1,0 +1,4 @@
+asyncio
+ed25519
+dataclasses
+dnspython
